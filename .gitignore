@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+.virtual_documents/
+
+# OS-specific
+.DS_Store
+
+# Large single-cell data files (keep downloaded/generated data out of Git)
+*.h5ad
+*.h5
+*.loom
